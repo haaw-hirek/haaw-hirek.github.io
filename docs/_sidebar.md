@@ -1,3 +1,5 @@
 <!-- docs/_sidebar.md -->
 * [Home](/)
-* [Guide](guide.md "The greatest guide in the world")
+* [Overview](overview.md "Hungarian American Association Hirek")
+* [Contact](page1/page.md "Page1")
+* [Contact](contact.md "Contact Us")
