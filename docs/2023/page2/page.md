@@ -1,6 +1,6 @@
-# A Magyar iskola jelenleg online… és nemzetközi viszonylatban is működik!
+# 2 A Magyar iskola jelenleg online… és nemzetközi viszonylatban is működik!
 
-Date: 2020-09-01
+Date: 2020-08-01
 
 
 Sikerült a koronavírusnak megtörnie a seattle-i Magyar iskola szellemét és tevékenységét? Egyáltalán nem! Azonban nehéz kihívásokkal nézünk szembe. A  redmondi Overlake Christian Church (OCC), ahol eddig helyiségeket béreltünk tavasszal bezárta a kapuit, a kormányzó pedig  elrendelte, hogy mindannyian maradjunk otthonunk biztonságában. Ehhez még az is hozzájárult, hogy önkénteseink munkája, élete, időbeosztása is felborult a munkahelyek, iskolák és óvodák bezárásával. Mindent rugalmasan újra kellett szervezni és kevesebb idő jutott az önkéntes munka további vállalására.
