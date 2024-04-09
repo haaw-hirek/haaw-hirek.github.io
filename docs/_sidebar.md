@@ -3,7 +3,7 @@
 
 * [Overview](overview.md "Hungarian American Association Hirek")
 
-- Customization
+- Years
   - 2024
     - [Hirek1](2024/page2/page.md)
     - [Hirek2](2024/page2/page.md)
