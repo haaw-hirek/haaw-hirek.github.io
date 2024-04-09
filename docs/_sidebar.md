@@ -5,9 +5,9 @@
 
 - Customization
   - 2024
-    - [Hirek1](page1/page.md)
-    - [Hirek2](page1/page.md)
+    - [Hirek1](2024/page2/page.md)
+    - [Hirek2](2024/page2/page.md)
   - 2023
-    - [Hirek3](page3/page.md)
+    - [Hirek3](2023/page1/page.md)
 
 * [Contact](contact.md)
