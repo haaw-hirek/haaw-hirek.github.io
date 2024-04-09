@@ -13,7 +13,16 @@
   <script>
     window.$docsify = {
       loadSidebar: true,
-      subMaxLevel: 2
+      loadNavbar: true,
+      subMaxLevel: 2,
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+
+      formatUpdated: function (time) {
+        return time;
+      },
+
+
+
     }
   </script>
   <!-- Docsify v4 -->
